@@ -11,7 +11,7 @@ Instruction
   2. Decision Tree
   3. Support Vector Machine (SVM)
   4. Logistic Regression
-- The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
+- The results are reported as the accuracy of each classifier, using the following metrics when these are applicable:
   1. Jaccard index
   2. F1-score
   3. LogLoss
